@@ -1,0 +1,10 @@
+jupyterlab
+ipykernel
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+scanpy
+anndata
