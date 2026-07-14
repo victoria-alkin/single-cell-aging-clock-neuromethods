@@ -20,7 +20,6 @@ single-cell-aging-clock-neuromethods/
 |       |-- cells.csv
 |       |-- genes.csv
 |       |-- rna_counts_all_genes.npz
-|-- figures/
 ```
 
 ## What the notebook demonstrates
