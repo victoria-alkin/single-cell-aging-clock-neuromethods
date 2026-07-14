@@ -35,6 +35,7 @@ The notebook walks through a simplified single-cell transcriptomic aging clock w
 7. Train cell-type-specific aging clocks using a StandardScaler + LASSO model.
 8. Evaluate predicted age against chronological age using held-out batches and mouse-level summaries.
 9. Build final LASSO models and inspect selected genes.
+
 The notebook is intended as a teaching example rather than a fully optimized aging-clock pipeline.
 
 ## Setup Option 1: Conda environment
